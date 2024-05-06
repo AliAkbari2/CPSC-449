@@ -11,4 +11,3 @@ Computer Science 319 or 331; and Philosophy 279 or 377.
 
 Instructor: Philip W. L. Fong  
 TA: Si Zhang  
-Overall grade: B+  
